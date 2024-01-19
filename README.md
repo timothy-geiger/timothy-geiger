@@ -8,18 +8,18 @@ Embark on a visual tour of my GitHub journey:
 
 
 <p align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
 </p>
 
 <p align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" align = "center"/>
-<img height="130em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timothy-geiger&theme=tokyonight&utcOffset=-1&hide_border=true&layout=donut" align = "center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" align = "center"/>
+<img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timothy-geiger&theme=tokyonight&utcOffset=-1&hide_border=true&layout=donut" align = "center"/>
 </p>
 
 <p align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
 </p>
 
 
