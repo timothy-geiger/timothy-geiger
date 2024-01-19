@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm Timothy, and here's a glimpse of my coding jou
 
   table td {
     border: none;
+    text-align: center;
   }
 </style>
 
