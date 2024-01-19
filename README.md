@@ -8,8 +8,8 @@ Embark on a visual tour of my GitHub journey:
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
+<img width="350em" height="200em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
+<img width="350em" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align = "center"/>
 </p>
 
 
