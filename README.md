@@ -6,12 +6,11 @@ Explore the world of coding with me, Timothy, where machine learning, AI, and so
 
 Embark on a visual tour of my GitHub journey:
 
-
-<div style="width=100%">
-    <div style="width=50%">
+<div style="display: table; width: 100%;">
+    <div style="display: table-cell; width: 50%; vertical-align: top;">
         <img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align="center"/>
     </div>
-    <div style="width=50%">
+    <div style="display: table-cell; width: 50%; vertical-align: top;">
         <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align="center"/>
     </div>
 </div>
