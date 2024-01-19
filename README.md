@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Timothy, and here's a glimpse of my coding jou
     border: none;
   }
 
-  table td {
+  table tr td {
     border: none;
     text-align: center;
   }
