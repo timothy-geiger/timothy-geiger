@@ -8,26 +8,24 @@ Embark on a visual tour of my GitHub journey:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats" align="center" valign="middle"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align="center" valign="middle" alt="Timothy's GitHub Streak"></td>
   </tr>
 </table>
 
 
-<table>
-  <tr>
-    <td align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
-    <td align="center"><img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
-  </tr>
-</table>
-
-
-
-
-
+<br>
 
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
 
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
+
+
+<br>
+
+
+<div style="flex: 1; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
+</div>
