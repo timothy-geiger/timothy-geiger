@@ -35,7 +35,7 @@ Embark on a visual tour of my GitHub journey:
   </a>
 </p>
 
----
+<br>
 
 # Programming Languages
 
@@ -45,7 +45,7 @@ Embark on a visual tour of my GitHub journey:
   </a>
 </p>
 
----
+<br>
 
 # Web Development
 
@@ -55,7 +55,7 @@ Embark on a visual tour of my GitHub journey:
   </a>
 </p>
 
----
+<br>
 
 # Data Science
 
@@ -65,7 +65,7 @@ Embark on a visual tour of my GitHub journey:
   </a>
 </p>
 
----
+<br>
 
 # DevOps and Tools
 
