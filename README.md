@@ -8,7 +8,7 @@ Embark on a visual tour of my GitHub journey:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats" align="center" valign="middle"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Timothy's Github Stats" align="center" valign="middle"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align="center" valign="middle" alt="Timothy's GitHub Streak"></td>
   </tr>
 </table>
@@ -26,6 +26,12 @@ Embark on a visual tour of my GitHub journey:
 <br>
 
 
-<div style="flex: 1; margin: 10px;">
+<div style="width=50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
 </div>
+
+<p style="width=50%">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,angular,bash,blender,cpp,cmake,clojure,docker,github,git,gitlab,html,idea,java,js,jquery,kubernetes,latex,linux,mongodb,neovim,nginx,nodejs,postman,py,react,redis,sklearn,vscode,pytorch," />
+  </a>
+</p>
