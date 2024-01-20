@@ -74,5 +74,6 @@ Embark on a journey through the dynamic interplay of algorithms and the intricat
 
 
 <br>
+<br>
 
 Thanks to ChatGPT for making this README sound way cooler than I ever could have 🤖📜!
