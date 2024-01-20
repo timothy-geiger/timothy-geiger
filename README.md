@@ -20,7 +20,7 @@ Embark on a visual tour of my GitHub journey:
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
-🌟 On a side note, if you love tackling coding challenges as much as I do, check out my <a href="https://leetcode.com/TimothyGeiger/" target="_blank">LeetCode profile</a> where algorithms meet excitement! 💡
+🌟 On a side note, if you love tackling coding challenges as much as I do, check out my <a href="https://leetcode.com/TimothyGeiger/" target="_blank" rel="noopener noreferrer">LeetCode profile</a> where algorithms meet excitement! 💡
 
 <p align="center" >
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" />
