@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 ChatGPT
@@ -19,27 +19,28 @@ Embark on a visual tour of my GitHub journey:
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
 
+[![LeetCode user TimothyGeiger](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTimothyGeiger&logo=leetcode&logoColor=yellow)](https://leetcode.com/TimothyGeiger/)
+
+
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
+### Unveiling My Tech Universe! 🚀🛠️
+
+Behold the heartbeat of my coding journey – a cosmic ensemble of languages and tools propelling me through the digital cosmos.
+
+
+#### 📊 Stats Snapshot
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
 </div>
 
-# Version Control
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-  </a>
-</p>
-
 <br>
 
-# Programming Languages
+#### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,clojure,java,js,py" />
   </a>
@@ -47,19 +48,9 @@ Embark on a visual tour of my GitHub journey:
 
 <br>
 
-# Web Development
+#### 🧠 Data Science
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,nodejs,react,angular,postman" />
-  </a>
-</p>
-
-<br>
-
-# Data Science
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" />
   </a>
@@ -67,109 +58,20 @@ Embark on a visual tour of my GitHub journey:
 
 <br>
 
-# DevOps and Tools
+#### 🌐 Web Development
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,idea,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,nodejs,react,angular,postman" />
   </a>
 </p>
 
+<br>
 
-+-----------------------------------------------------------+-------------------------------------------------------------------------------+
-| <                                                         | <                                                                             |
-| p                                                         | p                                                                             |
-|                                                           |                                                                               |
-| align                                                     | align                                                                         |
-| =                                                         | =                                                                             |
-| "center"                                                  | "center"                                                                      |
-| >                                                         | >                                                                             |
-|                                                           |                                                                               |
-| <                                                         | <                                                                             |
-| a                                                         | a                                                                             |
-|                                                           |                                                                               |
-| href                                                      | href                                                                          |
-| =                                                         | =                                                                             |
-| "https://skillicons.dev"                                  | "https://skillicons.dev"                                                      |
-| >                                                         | >                                                                             |
-|                                                           |                                                                               |
-| <                                                         | <                                                                             |
-| img                                                       | img                                                                           |
-|                                                           |                                                                               |
-| src                                                       | src                                                                           |
-| =                                                         | =                                                                             |
-| "https://skillicons.dev/icons?i=git,github,gitlab"        | "https://skillicons.dev/icons?i=cpp,clojure,java,js,py"                       |
-|                                                           |                                                                               |
-| />                                                        | />                                                                            |
-|                                                           |                                                                               |
-| </                                                        | </                                                                            |
-| a                                                         | a                                                                             |
-| >                                                         | >                                                                             |
-| </                                                        | </                                                                            |
-| p                                                         | p                                                                             |
-| >                                                         | >                                                                             |
-+-----------------------------------------------------------+-------------------------------------------------------------------------------+
-| <                                                         | <                                                                             |
-| p                                                         | p                                                                             |
-|                                                           |                                                                               |
-| align                                                     | align                                                                         |
-| =                                                         | =                                                                             |
-| "center"                                                  | "center"                                                                      |
-| >                                                         | >                                                                             |
-|                                                           |                                                                               |
-| <                                                         | <                                                                             |
-| a                                                         | a                                                                             |
-|                                                           |                                                                               |
-| href                                                      | href                                                                          |
-| =                                                         | =                                                                             |
-| "https://skillicons.dev"                                  | "https://skillicons.dev"                                                      |
-| >                                                         | >                                                                             |
-|                                                           |                                                                               |
-| <                                                         | <                                                                             |
-| img                                                       | img                                                                           |
-|                                                           |                                                                               |
-| src                                                       | src                                                                           |
-| =                                                         | =                                                                             |
-| "https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" | "https://skillicons.dev/icons?i=html,css,jquery,nodejs,react,angular,postman" |
-|                                                           |                                                                               |
-| />                                                        | />                                                                            |
-|                                                           |                                                                               |
-| </                                                        | </                                                                            |
-| a                                                         | a                                                                             |
-| >                                                         | >                                                                             |
-| </                                                        | </                                                                            |
-| p                                                         | p                                                                             |
-| >                                                         | >                                                                             |
-+-----------------------------------------------------------+-------------------------------------------------------------------------------+
-| <                                                                                                                                         |
-| p                                                                                                                                         |
-|                                                                                                                                           |
-| align                                                                                                                                     |
-| =                                                                                                                                         |
-| "center"                                                                                                                                  |
-| >                                                                                                                                         |
-|                                                                                                                                           |
-| <                                                                                                                                         |
-| a                                                                                                                                         |
-|                                                                                                                                           |
-| href                                                                                                                                      |
-| =                                                                                                                                         |
-| "https://skillicons.dev"                                                                                                                  |
-| >                                                                                                                                         |
-|                                                                                                                                           |
-| <                                                                                                                                         |
-| img                                                                                                                                       |
-|                                                                                                                                           |
-| src                                                                                                                                       |
-| =                                                                                                                                         |
-| "https://skillicons.dev/icons?i=bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,idea,blender"                  |
-|                                                                                                                                           |
-| />                                                                                                                                        |
-|                                                                                                                                           |
-| </                                                                                                                                        |
-| a                                                                                                                                         |
-| >                                                                                                                                         |
-| </                                                                                                                                        |
-| p                                                                                                                                         |
-| >                                                                                                                                         |
-+-------------------------------------------------------------------------------------------------------------------------------------------+
+#### ⚙️ DevOps and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,blender" />
+  </a>
+</p>
