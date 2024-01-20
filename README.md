@@ -6,34 +6,18 @@ Explore the world of coding with me, Timothy, where machine learning, AI, and so
 
 Embark on a visual tour of my GitHub journey:
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
-  </tr>
-</div>
-
 <div style="width: 100%;">
     <div style="width: 50%; float: left;">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" align="center"/>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true"/>
     </div>
-    <div style="width: 50%; float: left;">
-        <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" align="center"/>
+    <div style="width: 50%; float: right;">
+        <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true"/>
     </div>
     <div style="clear: both;"></div>
 </div>
 
-<table>
-  <tr>
-    <td align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
-    <td align="center"><img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
-  </tr>
-</table>
 
-
-
-
-
+<br>
 
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
