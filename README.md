@@ -16,8 +16,17 @@ Embark on a visual tour of my GitHub journey:
     <div style="clear: both;"></div>
 </div>
 
+<table>
+  <tr>
+    <td align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
+    <td align="center"><img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
+  </tr>
+</table>
 
-<br>
+
+
+
+
 
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
