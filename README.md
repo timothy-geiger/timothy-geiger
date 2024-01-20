@@ -11,7 +11,7 @@ Embark on a visual tour of my GitHub journey:
     <td><img src="https://github-readme-stats.vercel.app/api?username=timothy-geiger&show_icons=true&theme=tokyonight&hide_border=true" alt="Timothy's Github Stats"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=timothy-geiger&theme=tokyonight&hide_border=true" alt="Timothy's GitHub Streak"></td>
   </tr>
-</div>
+</table>
 
 
 <table>
