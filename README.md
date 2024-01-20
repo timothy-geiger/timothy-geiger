@@ -1,4 +1,4 @@
-# Hello there 👋
+<h1 align="center"> Hello there 👋</h1>
 
 
 Explore the world of coding with me, Timothy, where machine learning, AI, and software development come together to drive innovation. 🎶✨ Check out my GitHub profile to follow my coding journey, fueled by curiosity and a passion for pushing the limits of technology.
@@ -28,8 +28,7 @@ Embark on a visual tour of my GitHub journey:
 
 <br>
 <br>
-
-## Unveiling My Tech Universe! 🚀🛠️
+<h2 align="center">Unveiling My Tech Universe! 🚀🛠️</h2>
 
 Behold the heartbeat of my coding journey – a cosmic ensemble of languages and tools propelling me through the digital cosmos.
 
