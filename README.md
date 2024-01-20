@@ -71,3 +71,8 @@ Embark on a journey through the dynamic interplay of algorithms and the intricat
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,blender" />
   </a>
 </p>
+
+
+<br>
+
+Thanks to ChatGPT for making this README sound way cooler than I ever could have 🤖📜!
