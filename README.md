@@ -22,7 +22,7 @@ Embark on a visual tour of my GitHub journey:
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
-<p align="left" >
+<p align="center" >
   <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" />
 </p>
 
@@ -34,9 +34,9 @@ Embark on a visual tour of my GitHub journey:
 Behold the heartbeat of my coding journey – a cosmic ensemble of languages and tools propelling me through the digital cosmos.
 
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,clojure,java,js,py" />
   </a>
@@ -44,9 +44,9 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-### 🧠 Data Science
+<h3 align="center">🧠 Data Science</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" />
   </a>
@@ -54,9 +54,9 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-### 🌐 Web Development
+<h3 align="center">🌐 Web Development </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,nodejs,react,angular,postman" />
   </a>
@@ -64,9 +64,9 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-### ⚙️ DevOps and Tools
+<h3 align="center">⚙️ DevOps and Tools</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,blender" />
   </a>
