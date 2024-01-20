@@ -20,7 +20,10 @@ Embark on a visual tour of my GitHub journey:
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
 
-[![LeetCode user TimothyGeiger](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTimothyGeiger&logo=leetcode&logoColor=yellow)](https://leetcode.com/TimothyGeiger/)
+
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" />
+</p>
 
 <br>
 
