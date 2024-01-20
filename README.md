@@ -1,7 +1,6 @@
-### Hello there 👋
+# Hello there 👋
 
 
-ChatGPT
 Explore the world of coding with me, Timothy, where machine learning, AI, and software development come together to drive innovation. 🎶✨ Check out my GitHub profile to follow my coding journey, fueled by curiosity and a passion for pushing the limits of technology.
 
 Embark on a visual tour of my GitHub journey:
@@ -15,22 +14,28 @@ Embark on a visual tour of my GitHub journey:
 
 
 <br>
+<br>
+<br>
 
 
 🌟 On a side note, if you love tackling coding challenges as much as I do, check out my LeetCode profile where algorithms meet excitement! 💡
 
 [![LeetCode user TimothyGeiger](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTimothyGeiger&logo=leetcode&logoColor=yellow)](https://leetcode.com/TimothyGeiger/)
 
+<br>
 
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
-### Unveiling My Tech Universe! 🚀🛠️
+<br>
+<br>
+
+## Unveiling My Tech Universe! 🚀🛠️
 
 Behold the heartbeat of my coding journey – a cosmic ensemble of languages and tools propelling me through the digital cosmos.
 
 
-#### 📊 Stats Snapshot
+### 📊 Stats Snapshot
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
@@ -38,7 +43,7 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -48,7 +53,7 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-#### 🧠 Data Science
+### 🧠 Data Science
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -58,7 +63,7 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-#### 🌐 Web Development
+### 🌐 Web Development
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -68,7 +73,7 @@ Behold the heartbeat of my coding journey – a cosmic ensemble of languages and
 
 <br>
 
-#### ⚙️ DevOps and Tools
+### ⚙️ DevOps and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
