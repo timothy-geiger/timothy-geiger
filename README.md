@@ -34,14 +34,6 @@ Embark on a visual tour of my GitHub journey:
 Behold the heartbeat of my coding journey – a cosmic ensemble of languages and tools propelling me through the digital cosmos.
 
 
-### 📊 Stats Snapshot
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
-</div>
-
-<br>
-
 ### 💻 Programming Languages
 
 <p align="left">
