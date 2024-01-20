@@ -22,8 +22,8 @@ Embark on a visual tour of my GitHub journey:
 
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" />
+<p align="center" >
+  <img align="center" src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" />
 </p>
 
 <br>
