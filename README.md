@@ -23,15 +23,54 @@ Embark on a visual tour of my GitHub journey:
 🌟 Connect with me as we embark on this coding journey together! Feel free to explore and reach out – I'm always up for a conversation – whether it's about code, AI, or anything in between 🚀✨!  
 
 
-<br>
-
-
-<div style="width=50%">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothy-geiger&langs_count=8&theme=tokyonight&layout=normal&hide_border=true" align="center"/>
 </div>
 
-<p style="width=50%">
+# Version Control
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,angular,bash,blender,cpp,cmake,clojure,docker,github,git,gitlab,html,idea,java,js,jquery,kubernetes,latex,linux,mongodb,neovim,nginx,nodejs,postman,py,react,redis,sklearn,vscode,pytorch," />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
+---
+
+# Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,clojure,java,js,py" />
+  </a>
+</p>
+
+---
+
+# Web Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,nodejs,react,angular,postman" />
+  </a>
+</p>
+
+---
+
+# Data Science
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch" />
+  </a>
+</p>
+
+---
+
+# DevOps and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cmake,docker,kubernetes,latex,linux,mongodb,redis,nginx,neovim,vscode,idea,blender" />
   </a>
 </p>
