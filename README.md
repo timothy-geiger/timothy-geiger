@@ -5,6 +5,7 @@ This GitHub is where I build, test, and occasionally break things. You’ll find
 I’m always open to exchanging ideas, collaborating on interesting problems, or discussing anything related to data, models, or systems. If you enjoy thoughtful engineering and practical AI, feel free to reach out.
 I also spend time solving algorithmic problems to stay sharp. You can find those over on
 <a href="https://leetcode.com/TimothyGeiger/" target="_blank" rel="noopener noreferrer">LeetCode</a>.
+<br><br>
 <p align="center"> <img src="https://stats.justsong.cn/api/leetcode/?username=TimothyGeiger&theme=tokyonight" alt="Timothy's LeetCode Stats" width="50%" /> </p>
 <br><br>
 <h2 align="center">What I Work With 🧠</h2>
